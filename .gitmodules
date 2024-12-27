@@ -1,0 +1,3 @@
+[submodule "personal_utilities"]
+	path = personal_utilities
+	url = https://github.com/Rushils4/personal_utilities.git
