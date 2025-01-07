@@ -1,3 +1,7 @@
 [submodule "personal_utilities"]
 	path = personal_utilities
 	url = https://github.com/Rushils4/personal_utilities.git
+[submodule "gui/dear_imgui"]
+	path = gui/dear_imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
