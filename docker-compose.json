@@ -1,0 +1,20 @@
+{
+   "services" : {
+
+        "eeg_connect" : {
+
+            "build" : {
+                "context" : ".",
+                "dockerfile" : "./docker/Dockerfile"
+            },
+
+            "volumes" : [
+                "./eeg2computer/eeg_data:/home/eeg2computer/eeg_data"
+            ],
+
+            "container_name" : "eeg_connect"
+
+        }
+
+    }
+}

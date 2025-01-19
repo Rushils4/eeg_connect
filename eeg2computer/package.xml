@@ -1,0 +1,14 @@
+<?xml version="1.0">
+<package format="2">
+    <name>eeg_connect_backend</name>
+    <version>0.0.1</version>
+    <description>
+        A library for connecting to an EEG headset, handling the data, and broadcasting it as custom types or optionally ROS topics.
+    </description>
+
+    <maintainer email="rushils4@illinois.edu">Rushil Shah</maintainer>
+    <author>Rushil Shah</author>
+
+    <license>LGPL-3.0-or-later</license>
+
+</package>
